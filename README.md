@@ -138,4 +138,4 @@ AUR license: /aur/license/:packageName.svg
 ## 각 폰트별 다운로드 & 라이선스 
 
 [Naver-Post #link](https://post.naver.com/viewer/postView.nhn?volumeNo=16277816)    
-위 클릭하시면 각 폰트별 **라이선스** 확인하실 수 있습니다.
+위 클릭하시면 각 폰트별 **라이선스** 확인하실 수 있습니다

@@ -89,3 +89,20 @@ ___
 *literal asterisks* 
 __＼*＼*Text＼*＼*__ 
 _＼_Tom＼__
+
+
+## 이모지(EMOJI) - 아이콘
+GitHub supports emoji! 
+:+1: :sparkles: :camel: :tada: 
+:rocket: :metal: :octocat:
+
+[GitHub](http://emoji-cheat-sheet.com "- EMOJI 사이트")
+
+
+## 배지(badge) 만들기
+작성 예시 
+<https://img.shields.io/badge/license-mit-green.svg"> 
+https://img.shields.io/badge/--.svg 
+
+APM: /apm/l/:packageName.svg 
+AUR license: /aur/license/:packageName.svg

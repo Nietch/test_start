@@ -36,6 +36,9 @@ Format: ![이미지 alt명](url 링크)
 <a href="#"><img src="https://github.com/Nietch/test_start/images/사진2.jpg" width="400px" alt="sample image"></a> 
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
 
+세번째 뱃지 넣기
+<img src="https://img.shields.io/badge/license-mit-green">
+
 ## 하이퍼링크
 [GitHub](http://github.com "깃허브")
 

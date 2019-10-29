@@ -107,5 +107,5 @@ https://img.shields.io/badge/--.svg
 APM: /apm/l/:packageName.svg 
 AUR license: /aur/license/:packageName.svg
 
-[- 배지(badge) 만들기](https://shields.io"- ")
+[- 배지(badge) 만들기](https://shields.io)
 

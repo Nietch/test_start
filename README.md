@@ -96,7 +96,7 @@ GitHub supports emoji!
 :+1: :sparkles: :camel: :tada: 
 :rocket: :metal: :octocat:
 
-[GitHub](http://emoji-cheat-sheet.com "- EMOJI 사이트")
+[- EMOJI 사이트](http://emoji-cheat-sheet.com "- EMOJI 사이트")
 
 
 ## 배지(badge) 만들기
